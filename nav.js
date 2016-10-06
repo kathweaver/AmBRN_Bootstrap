@@ -7,7 +7,7 @@ document.write(
 "           <li><a href='./#contact'>Contact and Board Information</a></li>" +
 "           <li><a href='./memorial.html'>Memorial</a></li>" +
 "           <li><a href='./prevention.html'>Prevention Articles</a></li>" +
-"           <li><a href='./Newsletter/2014_June/index.html'>Newsletter</a></li>" +
+"           <li><a href='./Newsletter/2014_June/index.html'>June 2014 Newsletter</a></li>" +
 "        </ul>" +
 "        <form class='navbar-form navbar-right' action='https://www.paypal.com/cgi-bin/webscr' method='post' target='_top'>" +
 "           <input type='hidden' name='cmd' value='_s-xclick'>" +
